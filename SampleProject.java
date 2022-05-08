@@ -4,5 +4,6 @@ public class SampleProject {
         int test = 123;
         int test01 = 1234;
         int test02 = 1234;
+        int test03 = 1234;
     }
 }
