@@ -6,7 +6,7 @@ public class SampleProject {
         int test02 = 1234;
         int test03 = 1234;
 
-        int test05 = 12123134;
-        int test06 = 1234;
+        int test05 = 1234;
+        int test06 = 12341234;
     }
 }
