@@ -5,5 +5,7 @@ public class SampleProject {
         int test01 = 1234;
         int test02 = 1234;
         int test03 = 1234;
+
+        int test05 = 1234;
     }
 }
